@@ -4,8 +4,7 @@
 
 
 To do:
-
+[ ] - [SIMPLE ONLINE AND REALTIME TRACKING](https://arxiv.org/pdf/1602.00763.pdf)
 [ ] - [Kalman filtering in Computer Vision](https://arxiv.org/pdf/1802.01235.pdf)
-
 [ ] - Paper additions on Visual odometry
 [ ] - Stereo Vision
