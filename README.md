@@ -10,3 +10,13 @@
 ## Paper Summaries
 
 1.[ResNets](https://github.com/kartikmadhira1/DeepLearning/tree/master/PaperSummaries/ResNet), ResNext and DenseNet.
+
+
+## Tracking and Sensor Fusion
+
+1. [Multiple Object Tracking Performance Metricsand Evaluation in a Smart Room Environment](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf) - [Summary]()
+
+
+
+
+
