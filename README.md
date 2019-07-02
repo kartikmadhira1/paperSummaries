@@ -14,9 +14,4 @@
 
 ## Tracking and Sensor Fusion
 
-1. [Multiple Object Tracking Performance Metricsand Evaluation in a Smart Room Environment](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf) - [Summary]()
-
-
-
-
-
+1. Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment - [Summary](https://github.com/kartikmadhira1/paperSummaries/blob/master/PaperSummaries/mota.md) [Paper](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf)
