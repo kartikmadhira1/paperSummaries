@@ -15,3 +15,9 @@
 ## Tracking and Sensor Fusion
 
 1. Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment - [Summary](https://github.com/kartikmadhira1/paperSummaries/blob/master/PaperSummaries/mota.md) | [Paper](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf)
+
+
+
+##High Notes questions:
+
+1. Why are pointers needed, in fact what do they bring in more than normal variables created by allocation memory stably by compiler on the stack.
