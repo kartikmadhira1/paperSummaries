@@ -26,4 +26,4 @@
 
 - thought - > raw memory is all register with 8 bits, depends on compile/interpreter to compile/interpert them using binary - [DECIMAL/INT/FLOATING POINT] converter.
 
-- thought -> Hardware explanation of pointers w.r.t dynamic and static/runtime and compile type needs of the program(remember struct Node* creation!)
+- thought -> Hardware explanation of pointers w.r.t dynamic and static/runtime and compile type needs of the program(remember struct Node* creation!)  We are using pointers because this performed actions returns memory address. Technique for usage of memory addresses in C++ is usage of pointers!!!
