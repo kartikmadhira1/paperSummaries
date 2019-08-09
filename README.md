@@ -7,15 +7,20 @@
 
 
 
-## Paper Summaries
+# Paper Summaries:
 
+
+### Deep Learning 
 1.[ResNets](https://github.com/kartikmadhira1/DeepLearning/tree/master/PaperSummaries/ResNet), ResNext and DenseNet.
 
+#### Point Clouds
 
-## Tracking and Sensor Fusion
+1. SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation  for  Road-Object  Segmentation  from  a  LiDAR  Point Cloud [Summary]() | [Paper](https://arxiv.org/pdf/1809.08495.pdf)
+
+
+### Tracking and Sensor Fusion
 
 1. Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment - [Summary](https://github.com/kartikmadhira1/paperSummaries/blob/master/PaperSummaries/mota.md) | [Paper](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf)
-
 
 
 ## High Notes questions:
