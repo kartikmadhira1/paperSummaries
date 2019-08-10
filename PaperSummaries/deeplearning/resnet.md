@@ -12,4 +12,4 @@ This is because the ouput function to a ResNet block is a(l+2)=g(W(l+2)a(l+1)+b(
 
 This means that adding a previous output does'nt really hurt the output of the function and atmost will resemble a simple net without the skip connections.
 
-![alt](resnet.png)
+![alt](PaperSummaries/images/resnet.png)
