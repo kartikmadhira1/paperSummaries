@@ -1,12 +1,3 @@
-# Contributors:
-
-1. [Prateek Arora](https://github.com/Pratiquea)
-2. [Abhinav Modi](https://github.com/abhi1625)
-3. [Rohan Singh](https://github.com/rohan42)
-4. [Kartik Madhira](https://github.com/kartikmadhira1)
-
-
-
 # Paper Summaries:
 
 
