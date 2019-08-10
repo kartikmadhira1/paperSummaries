@@ -1,6 +1,6 @@
 ### SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation for Road-Object Segmentation from a LiDAR Point Cloud
 
-Introduction : An deep learning based point cloud segmentation model to output point wise labels with input from point cloud.
+Introduction : A deep learning based point cloud segmentation model to output point wise labels with input from point cloud.
 
 1. V1 was not robust to dropout noise in lidar point clouds and was performance was bad when put on real world data.
 1. This paper also uses the GTA - V simulator as data to feed into the model for training. However, the simulation data failed to be applicable on real world data.
