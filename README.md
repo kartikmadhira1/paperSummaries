@@ -1,10 +1,14 @@
 # Paper Summaries:
 
 
-### _Deep Learning_
+### _Learning and traditional approaches_
 #### __Architectures__
 
 1.[ResNets](PaperSummaries/deeplearning/resnet.md), ResNext and DenseNet.
+
+### _Detection and Segmentation_
+
+1. Histogram of Oriented Gradients for Human Detection [Summary](PaperSummaries/traditional/HOG_human_detect.md)
 
 #### __Point Clouds__
 
