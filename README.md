@@ -8,7 +8,12 @@
 
 ### _Detection and Segmentation_
 
-1. Histogram of Oriented Gradients for Human Detection [Summary](PaperSummaries/traditional/HOG_human_detect.md)
+1. Histogram of Oriented Gradients for Human Detection [Summary](PaperSummaries/traditional/HOG_human_detect.md) | [Paper](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
+2. Object Detection with Discriminatively Trained Part Based Models [Summary]() | [Paper](http://cs.brown.edu/people/pfelzens/papers/lsvm-pami.pdf)
+
+#### Evaluation
+
+1. Understanding Precision and Recall curve [see this awesome blog post](https://github.com/rafaelpadilla/Object-Detection-Metrics#precision-x-recall-curve)
 
 #### __Point Clouds__
 
@@ -18,6 +23,9 @@
 ### _Tracking and Sensor Fusion_
 
 1. Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment - [Summary](https://github.com/kartikmadhira1/paperSummaries/blob/master/PaperSummaries/mota.md) | [Paper](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf)
+
+
+
 
 
 ##### High Notes questions:

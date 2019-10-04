@@ -13,7 +13,7 @@ A better full blown summary is available [here](http://mccormickml.com/2013/05/0
 ![HOG pipeline, taken from Prof.Abhinav Shrivastava's slides](../images/hog.png)
 
 
-Additional topics covered in the paper:
+Additional topics covered used but not described in the in the paper:
 
-1. Hard mining
+1. Hard mining (descriped in the [DPM](PaperSummaries/traditional/dpm.md) paper)
 2. Sliding window approach
