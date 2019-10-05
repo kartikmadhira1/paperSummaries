@@ -21,3 +21,4 @@ The pipeline of the paper is:
 6. In the first part, all the part locations or the latent variable **z** is fixed for all the training images and then a linear SVM is trained in order to get the filter weights or beta.
 7. Next, all the **positive** examples from the previous training set are taken and now beta is fixed and trained on getting the latent variable z. This is iteratively optimized.
 8. The method also contains on training with a mixture of these models. See [slides](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/Lecture-18-DPM.pdf) for more explanation. **TODO**
+9. The paper also explains a nice trick to handle really large number of negative examples with respect to the positive examples.
