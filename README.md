@@ -8,10 +8,14 @@
 
 ### _Detection and Segmentation_
 
-#### Traditional Vision
+#### Traditional vision based
 1. Histogram of Oriented Gradients for Human Detection [Summary](PaperSummaries/traditional/HOG_human_detect.md) | [Paper](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
 
-2. Object Detection with Discriminatively Trained Part Based Models [Summary]() | [Paper](http://cs.brown.edu/people/pfelzens/papers/lsvm-pami.pdf)
+2. Object Detection with Discriminatively Trained Part Based Models [Summary](PaperSummaries/traditional/dpm.md) | [Paper](http://cs.brown.edu/people/pfelzens/papers/lsvm-pami.pdf)
+
+#### Deep learning based
+
+1. OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks [Summary](PaperSummaries/traditional/overfeat.md) | [Paper](https://arxiv.org/pdf/1312.6229.pdf)
 
 #### Point Clouds
 
@@ -25,8 +29,6 @@
 ### _Tracking and Sensor Fusion_
 
 1. Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment - [Summary](https://github.com/kartikmadhira1/paperSummaries/blob/master/PaperSummaries/mota.md) | [Paper](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf)
-
-
 
 
 
