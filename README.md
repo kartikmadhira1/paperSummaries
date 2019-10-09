@@ -17,6 +17,8 @@
 
 1. OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks [Summary](PaperSummaries/traditional/overfeat.md) | [Paper](https://arxiv.org/pdf/1312.6229.pdf)
 
+2. SSD: Single Shot MultiBox Detector [Summary](PaperSummaries/traditional/overfeat.md) | [Paper]https://arxiv.org/pdf/1512.02325.pdf)
+
 #### Point Clouds
 
 1. SqueezeSegV2: Improved Model Structure and Unsupervised Domain Adaptation  for  Road-Object  Segmentation  from  a  LiDAR  Point Cloud [Summary](PaperSummaries/deeplearning/squeezesegv2.md) | [Paper](https://arxiv.org/pdf/1809.08495.pdf)
