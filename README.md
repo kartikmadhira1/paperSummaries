@@ -21,8 +21,8 @@
 
 #### Segementation
 
-1. Fully Convolutional Networks for Semantic Segmentation [Summary]() | [paper](https://arxiv.org/abs/1411.4038)
-
+1. Fully Convolutional Networks for Semantic Segmentation [Summary](paper-summaries/deeplearning/fcn_seg.md) | [paper](https://arxiv.org/abs/1411.4038) **TODO**
+2. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [Summary](paper-summaries/deeplearning/deeplabv1.md) | [paper](https://arxiv.org/pdf/1606.00915.pdf) **TODO**
 
 #### Point Clouds
 
