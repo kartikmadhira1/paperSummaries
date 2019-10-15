@@ -1,4 +1,4 @@
-# Paper Summaries:
+# Papern Summaries:
 
 
 ### _Learning and traditional approaches_
@@ -8,16 +8,21 @@
 
 ### _Detection and Segmentation_
 
-#### Traditional vision based
+#### Detection
 1. Histogram of Oriented Gradients for Human Detection [Summary](paper-summaries/traditional/HOG_human_detect.md) | [paper](https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
 
 2. Object Detection with Discriminatively Trained Part Based Models [Summary](paper-summaries/traditional/dpm.md) | [paper](http://cs.brown.edu/people/pfelzens/papers/lsvm-pami.pdf)
 
-#### Deep learning based
-
 1. OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks [Summary](paper-summaries/traditional/overfeat.md) | [paper](https://arxiv.org/pdf/1312.6229.pdf)
 
-2. SSD: Single Shot MultiBox Detector [Summary](paper-summaries/traditional/overfeat.md) | [paper]https://arxiv.org/pdf/1512.02325.pdf)
+2. SSD: Single Shot MultiBox Detector [Summary](paper-summaries/deeplearning/ssd.md) | [paper]https://arxiv.org/pdf/1512.02325.pdf)
+
+3. YOLOv3: An Incremental Improvement [Summary](paper-summaries/deeplearning/yolo.md) | [paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf) **TODO**
+
+#### Segementation
+
+1. Fully Convolutional Networks for Semantic Segmentation [Summary]() | [paper](https://arxiv.org/abs/1411.4038)
+
 
 #### Point Clouds
 
@@ -29,7 +34,6 @@
 1. Understanding Precision and Recall curve [see this awesome blog post](https://github.com/rafaelpadilla/Object-Detection-Metrics#precision-x-recall-curve)
 
 ### _Tracking and Sensor Fusion_
-
 1. Multiple Object Tracking Performance Metrics and Evaluation in a Smart Room Environment - [Summary](https://github.com/kartikmadhira1/paper-summaries/blob/master/paper-summaries/mota.md) | [paper](https://cvhci.anthropomatik.kit.edu/~stiefel/papers/ECCV2006WorkshopCameraReady.pdf)
 
 
