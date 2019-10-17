@@ -19,10 +19,12 @@
 
 3. YOLOv3: An Incremental Improvement [Summary](paper-summaries/deeplearning/yolo.md) | [paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf) **TODO**
 
-#### Segementation
+#### Segmentation
 
 1. Fully Convolutional Networks for Semantic Segmentation [Summary](paper-summaries/deeplearning/fcn_seg.md) | [paper](https://arxiv.org/abs/1411.4038) **TODO**
 2. DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs [Summary](paper-summaries/deeplearning/deeplabv1.md) | [paper](https://arxiv.org/pdf/1606.00915.pdf) **TODO**
+
+3. Hypercolumns for Object Segmentation and Fine-grained Localization (Instance Segmentation) [Summary](paper-summaries/deeplearning/hypercolumns.md) | [paper](https://arxiv.org/pdf/1411.5752.pdf) **TODO**
 
 #### Point Clouds
 
