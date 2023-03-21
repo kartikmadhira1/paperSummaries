@@ -1,4 +1,4 @@
-# Papern Summaries:
+# Paper Summaries:
 
 
 ### _Learning and traditional approaches_
@@ -18,6 +18,8 @@
 2. SSD: Single Shot MultiBox Detector [Summary](paper-summaries/deeplearning/ssd.md) | [paper]https://arxiv.org/pdf/1512.02325.pdf)
 
 3. YOLOv3: An Incremental Improvement [Summary](paper-summaries/deeplearning/yolo.md) | [paper](https://pjreddie.com/media/files/papers/YOLOv3.pdf) **TODO**
+
+4. EfficientDet: Scalable and Efficient Object Detection [Summary](paper-summaries/deeplearning/ed.md | [paper](https://arxiv.org/abs/1911.09070)
 
 #### Segmentation
 
